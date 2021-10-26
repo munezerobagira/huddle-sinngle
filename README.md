@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/munezerobagira/Fylo-basic)
-- Live Site URL: [Click here](https://fylo-basic.vercel.app/)
+- Solution URL: [Github](https://github.com/munezerobagira/huddle-sinngle)
+- Live Site URL: [Click here](https://huddle-sinngle.vercel.app/)
 
 ## My process
 
